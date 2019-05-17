@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("bug fix!");
         System.out.println("master fix!");
+        System.out.println("master fix 2!");
     }
 }
